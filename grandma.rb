@@ -3,7 +3,7 @@ def speak_to_grandma(string)
   if "I love you grandma".upcase
     puts "I love you too pumpkin!".upcase
   else "Hi!".downcase
-    return "HUH?! SPEAK UP, SONNY!".upcase
+    puts "HUH?! SPEAK UP, SONNY!".upcase
   end
 end
     
